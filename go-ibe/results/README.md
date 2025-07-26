@@ -165,22 +165,6 @@ results/
 - **Configuration**: Complete environment configuration documented
 - **Seed Values**: Random seeds provided for reproducible results
 
-## Contact Information
-
-For questions about these results or methodology:
-- **Security Team**: security@example.com
-- **Research Team**: research@example.com
-- **Documentation**: docs@example.com
-
-## Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | 2024-01-01 | Initial comprehensive testing |
-| 1.1 | 2024-01-15 | Added power analysis results |
-| 1.2 | 2024-02-01 | Extended timing attack coverage |
-| 1.3 | 2024-02-15 | Performance optimization analysis |
-
 ## License
 
 This documentation and associated data are provided under the MIT License. See LICENSE file for details.
